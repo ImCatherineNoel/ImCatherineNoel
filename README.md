@@ -1,26 +1,6 @@
-
-# Hi!
-If you are looking for my repos they are all organized in organizations, you can find them all below!
-## For my work done while in Lambda School you can check out:
-#### [Lambda Work - Course One : Web Fundamentals](https://github.com/Lambda-Work-Course-1) 
-The goal of unit one is to learn to build user interfaces and introduce git. Concepts covered: Semantic HTML, display types, basic terminal use, basic git use, CSS specificity, and flex box.
-
-*I am currently redoing/updating these projects over winter break
-
-More units coming soon
-
-
-<!--
-**ImCatherineNoel/ImCatherineNoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello person!
+Welcome to my little place on GitHub! I have issues with the need to be organized. GitHub makes this harder then it should be; but, I have done my best to keep things neat and easy to work around.
+## 😔Lambda School
+See this [list](https://github.com/ImCatherineNoel/ImCatherineNoel/blob/main/Lambda.md) of organizations containing projects done for the Lambda School 
+### More to come!
+I promise that more will be added. I have several projects that I am working on, when they are ready to shine they will live here too!
